@@ -1,0 +1,16 @@
+.text_block { 
+			width: 50%;
+			font-weight: bold;
+			display: inline-block;
+}
+.text_block2 { 
+	width: 50%;
+	color: red;
+	display: inline-block;
+}
+h1 {
+color: blue;
+}
+.container {
+text-align: center;
+}
